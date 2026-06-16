@@ -156,7 +156,7 @@
       amount: 5
   effects:
     - !type:SpawnEntity
-      entity: ShardCrystalRandom
+      entity: ShardCrystalRandomLootbox #Auroras Song: ShardCrystalRandom<ShardCrystalRandomLootbox
 
 - type: reaction
   id: Gunpowder
