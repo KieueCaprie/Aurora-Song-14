@@ -195,3 +195,17 @@
       - id: ShardCrystalBlue
       - id: ShardCrystalCyan
       - id: ShardCrystalRed
+
+# Auroras Song start: crystal shard recipe workaround
+- type: entity
+  parent: ShardCrystalBase
+  id: ShardCrystalRandomLootbox
+  name: faintly glowing crystal shard
+  description: This crystal seems to be glowing a very faint color, maybe shaking it will bring out its true prismatic potential?
+  components:
+  - type: SpawnItemsOnUse
+    items:
+      - id: ShardCrystalRandom
+    sound:
+      path: /Audio/Items/Handcuffs/rope_breakout.ogg
+# Auroras Song end: Don't even know why the *original* recipe isn't working and I'm too scared to look at the engine code to figure it out.
