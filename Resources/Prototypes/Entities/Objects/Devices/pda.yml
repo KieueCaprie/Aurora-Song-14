@@ -476,6 +476,7 @@
     - NanoTaskCartridge
     - NewsReaderCartridge
     - AstroNavCartridge
+    - BountyContractsCartridge # Frontier
     - NanoChatCartridge # Auroras Song
   - type: Appearance
     appearanceDataInit:
@@ -542,6 +543,7 @@
     - NotekeeperCartridge
     - NanoTaskCartridge
     - NewsReaderCartridge
+    - BountyContractsCartridge # Frontier
     - AstroNavCartridge
     - NanoChatCartridge # Auroras Song
 
