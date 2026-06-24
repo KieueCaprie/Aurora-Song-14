@@ -472,12 +472,12 @@
         - Cartridge
     preinstalled:
     - CrewManifestCartridge
-    - NotekeeperCartridge
-    - NanoTaskCartridge
+    - NotekeeperCartridge # Aurora's Song
+    - NanoTaskCartridge # Aurora's Song
     - NewsReaderCartridge
-    - AstroNavCartridge
-    - BountyContractsCartridge # Frontier
-    - NanoChatCartridge # Auroras Song
+    - BountyContractsCartridge # Aurora's Song
+    - AstroNavCartridge # Aurora's Song
+    - NanoChatCartridge # Aurora's Song
   - type: Appearance
     appearanceDataInit:
      enum.PdaVisuals.PdaType:
@@ -543,7 +543,7 @@
     - NotekeeperCartridge
     - NanoTaskCartridge
     - NewsReaderCartridge
-    - BountyContractsCartridge # Frontier
+    - BountyContractsCartridge # Aurora's Song
     - AstroNavCartridge
     - NanoChatCartridge # Auroras Song
 
