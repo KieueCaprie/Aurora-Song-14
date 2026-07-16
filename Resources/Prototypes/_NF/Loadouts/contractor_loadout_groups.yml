@@ -1076,6 +1076,7 @@
   - ContractorMedicalTrackingImplanter
   - ContractorLightImplanter
   - ContractorBikeHornImplanter
+  - ContractorWehImplanter # Aurora's Song - ported from Frontier
   - ContractorSadTromboneImplanter
   - ContractorMimePowersImplanter
   - ContractorBibleUserImplanter
