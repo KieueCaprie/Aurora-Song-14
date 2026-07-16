@@ -577,6 +577,7 @@
       - id: LightImplanter
       - id: SadTromboneImplanter
       - id: BikeHornImplanter
+      - id: WehImplanter # Aurora's Song - Ported from Frontier
       - id: TrackingImplanter
       - id: MindShieldImplanter
     # Uncommon
