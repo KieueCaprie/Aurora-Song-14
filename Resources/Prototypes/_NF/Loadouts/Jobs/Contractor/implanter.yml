@@ -35,6 +35,17 @@
   price: 1000
   implants:
   - SadTromboneImplanter
+  
+#Aurora's Song - Ported from Frontier, may be temporary until I get an answer for how I should be doing this.
+- type: loadout 
+  id: ContractorWehImplanter
+  name: weh implanter
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: ContractorT1
+  price: 1000
+  implants:
+  - WehImplanter
 
 #T2
 - type: loadout
