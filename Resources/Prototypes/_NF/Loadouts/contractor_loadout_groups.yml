@@ -1077,6 +1077,7 @@
   - ContractorLightImplanter
   - ContractorBikeHornImplanter
   - ContractorSadTromboneImplanter
+  - ContractorWehImplanter #Frontier - Ported from PR #4248
   - ContractorMimePowersImplanter
   - ContractorBibleUserImplanter
   fallbacks:
