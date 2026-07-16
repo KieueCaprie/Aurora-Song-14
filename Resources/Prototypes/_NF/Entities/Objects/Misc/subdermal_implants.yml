@@ -189,7 +189,7 @@
   components:
     - type: SubdermalImplant
       implantAction: ActionActivateWehImplant
-    - type: TriggerImplantAction
+    - type: TriggerOnActivateImplant
     - type: EmitSoundOnTrigger
       sound:
         collection: Weh
