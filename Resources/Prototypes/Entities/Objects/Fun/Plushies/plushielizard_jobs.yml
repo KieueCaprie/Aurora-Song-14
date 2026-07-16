@@ -221,11 +221,14 @@
     soundHit: null
 
 - type: entity
-  parent: BasePlushieLizardJob
+  parent: [BasePlushieLizardJob, BaseHandheldInstrument] #Aurora - BasePlushieLizardJob<BasePlushieLizardJob, BaseHandheldInstrument
   id: PlushieLizardJobMusician
   name: musician lizard plushie
   description: An adorable stuffed toy that resembles a lizardperson as a musician. It smells faintly of sweat and has a few strings coming loose.
   components:
+  - type: Instrument #Aurora - weh
+    program: 1
+    bank: 101
   - type: Sprite
     state: musician
 
