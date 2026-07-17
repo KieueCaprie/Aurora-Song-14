@@ -48,7 +48,7 @@
     implant: MimePowersImplant
 
 - type: entity
-  id: WehImplanter #Frontier - Ported from PR #4248
+  id: WehImplanter
   name: weh implanter
   parent: BaseImplantOnlyImplanter
   components:

@@ -10,7 +10,6 @@
   - type: InstantAction
     event: !type:ActivateImplantEvent
 
-#Frontier - Ported from PR #4248
 - type: entity
   parent: BaseImplantAction
   id: ActionActivateWehImplant

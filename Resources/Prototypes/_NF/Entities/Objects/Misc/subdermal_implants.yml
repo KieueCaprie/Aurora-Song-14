@@ -179,7 +179,6 @@
     radioChannels:
     - Freelance
 
-#Frontier - Ported from PR #4248
 - type: entity
   parent: BaseSubdermalImplant
   id: WehImplant
