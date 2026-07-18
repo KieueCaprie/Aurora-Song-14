@@ -577,7 +577,7 @@
       - id: LightImplanter
       - id: SadTromboneImplanter
       - id: BikeHornImplanter
-      - id: WehImplanter #Frontier - Ported from PR #4248
+      - id: WehImplanter
       - id: TrackingImplanter
       - id: MindShieldImplanter
     # Uncommon
