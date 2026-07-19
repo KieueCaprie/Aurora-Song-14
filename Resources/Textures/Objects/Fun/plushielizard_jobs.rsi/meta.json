@@ -8,6 +8,18 @@
     },
     "states": [
         {
+            "name": "inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "atmospherictechnician"
         },
         {
@@ -36,6 +48,18 @@
         },
         {
             "name": "chiefengineer"
+        },
+        {
+            "name": "chiefengineer-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "chiefengineer-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "chiefengineer-equipped-HELMET",
+            "directions": 4
         },
         {
             "name": "chiefmedicalofficer"
@@ -74,6 +98,18 @@
             "name": "musician"
         },
         {
+            "name": "musician-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "musician-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "musician-equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "paramedic"
         },
         {
@@ -93,6 +129,18 @@
         },
         {
             "name": "researchdirector"
+        },
+        {
+            "name": "researchdirector-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "researchdirector-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "researchdirector-equipped-HELMET",
+            "directions": 4
         },
         {
             "name": "salvager"

@@ -6,6 +6,8 @@
   components:
   - type: Sprite
     sprite: Objects/Fun/plushielizard_jobs.rsi
+  - type: Item
+    sprite: Objects/Fun/plushielizard_jobs.rsi
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -96,6 +98,16 @@
   components:
   - type: Sprite
     state: chiefengineer
+  - type: Clothing
+    clothingVisuals:
+      head:
+      - state: chiefengineer-equipped-HELMET
+  - type: Item
+    inhandVisuals:
+      left:
+      - state: chiefengineer-inhand-left
+      right:
+      - state: chiefengineer-inhand-right
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -228,6 +240,17 @@
   components:
   - type: Sprite
     state: musician
+  - type: Clothing
+    clothingVisuals:
+      head:
+      - state: musician-equipped-HELMET
+  - type: Item
+    inhandVisuals:
+      left:
+      - state: musician-inhand-left
+      right:
+      - state: musician-inhand-right
+
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -291,6 +314,16 @@
   components:
   - type: Sprite
     state: researchdirector
+  - type: Clothing
+    clothingVisuals:
+      head:
+      - state: researchdirector-equipped-HELMET
+  - type: Item
+    inhandVisuals:
+      left:
+      - state: researchdirector-inhand-left
+      right:
+      - state: researchdirector-inhand-right
 
 - type: entity
   parent: BasePlushieLizardJob
