@@ -1,7 +1,7 @@
 ﻿{
     "version": 1,
     "license": "CC-BY-SA-3.0",
-    "copyright": "All job lizard plushies made by seam_less (discord), multiweh from all job lizard plushies by ArtisticRoomba",
+    "copyright": "All job lizard plushies made by seam_less (discord), multiweh from all job lizard plushies by ArtisticRoomba, all job lizard plushie hold and helmet sprites made by KieueCaprie based on the lizard plushie hold by KieueCaprie and modified by SolStar and the lizard plushie helmet by Cinder and modified by SolStar",
     "size": {
         "x": 32,
         "y": 32
@@ -65,6 +65,18 @@
             "name": "chiefmedicalofficer"
         },
         {
+            "name": "chiefmedicalofficer-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "chiefmedicalofficer-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "chiefmedicalofficer-equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "clown"
         },
         {
@@ -74,7 +86,31 @@
             "name": "headofpersonnel"
         },
         {
+            "name": "headofpersonnel-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "headofpersonnel-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "headofpersonnel-equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "headofsecurity"
+        },
+        {
+            "name": "headofsecurity-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "headofsecurity-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "headofsecurity-equipped-HELMET",
+            "directions": 4
         },
         {
             "name": "janitor"
