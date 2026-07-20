@@ -80,6 +80,18 @@
             "name": "clown"
         },
         {
+            "name": "clown-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "clown-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "clown-equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "detective"
         },
         {
@@ -116,6 +128,18 @@
             "name": "janitor"
         },
         {
+            "name": "janitor-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "janitor-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "janitor-equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "lawyer"
         },
         {
@@ -129,6 +153,18 @@
         },
         {
             "name": "mime"
+        },
+        {
+            "name": "mime-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "mime-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "mime-equipped-HELMET",
+            "directions": 4
         },
         {
             "name": "musician"

@@ -7,7 +7,18 @@
   - type: Sprite
     sprite: Objects/Fun/plushielizard_jobs.rsi
   - type: Item
-    sprite: Objects/Fun/plushielizard_jobs.rsi
+    sprite: Objects/Fun/plushielizard_jobs.rsi #Aurora's Song - source inhand and helmet sprites from own rsi instead of drawing from lizard.rsi in Toys
+  - type: Clothing
+    sprite: Objects/Fun/plushielizard_jobs.rsi # Do not ask me why I did this, the game wasn't having it until I gave it all three possible components
+
+# TODO: Delete once the PR is done and dusted.
+#  components:
+#  - type: Sprite
+#    state: REPLACEME
+#  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+#    equippedPrefix: REPLACEME
+#  - type: Item
+#    heldPrefix: REPLACEME
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -98,16 +109,10 @@
   components:
   - type: Sprite
     state: chiefengineer
-  - type: Clothing
-    clothingVisuals:
-      head:
-      - state: chiefengineer-equipped-HELMET
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: chiefengineer
   - type: Item
-    inhandVisuals:
-      left:
-      - state: chiefengineer-inhand-left
-      right:
-      - state: chiefengineer-inhand-right
+    heldPrefix: chiefengineer
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -117,16 +122,10 @@
   components:
   - type: Sprite
     state: chiefmedicalofficer
-  - type: Clothing
-    clothingVisuals:
-      head:
-      - state: chiefmedicalofficer-equipped-HELMET
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: chiefmedicalofficer
   - type: Item
-    inhandVisuals:
-      left:
-      - state: chiefmedicalofficer-inhand-left
-      right:
-      - state: chiefmedicalofficer-inhand-right
+    heldPrefix: chiefmedicalofficer
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -145,6 +144,10 @@
   - type: EmitSoundOnTrigger
     sound:
       collection: BikeHorn
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: clown
+  - type: Item
+    heldPrefix: clown
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -163,16 +166,10 @@
   components:
   - type: Sprite
     state: headofpersonnel
-  - type: Clothing
-    clothingVisuals:
-      head:
-      - state: headofpersonnel-equipped-HELMET
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: headofpersonnel
   - type: Item
-    inhandVisuals:
-      left:
-      - state: headofpersonnel-inhand-left
-      right:
-      - state: headofpersonnel-inhand-right
+    heldPrefix: headofpersonnel
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -182,16 +179,10 @@
   components:
   - type: Sprite
     state: headofsecurity
-  - type: Clothing
-    clothingVisuals:
-      head:
-      - state: headofsecurity-equipped-HELMET
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: headofsecurity
   - type: Item
-    inhandVisuals:
-      left:
-      - state: headofsecurity-inhand-left
-      right:
-      - state: headofsecurity-inhand-right
+    heldPrefix: headofsecurity
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -201,6 +192,10 @@
   components:
   - type: Sprite
     state: janitor
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: janitor
+  - type: Item
+    heldPrefix: janitor
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -261,6 +256,10 @@
   - type: MeleeWeapon
     wideAnimationRotation: 180
     soundHit: null
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: mime
+  - type: Item
+    heldPrefix: mime
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -270,16 +269,10 @@
   components:
   - type: Sprite
     state: musician
-  - type: Clothing
-    clothingVisuals:
-      head:
-      - state: musician-equipped-HELMET
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: musician
   - type: Item
-    inhandVisuals:
-      left:
-      - state: musician-inhand-left
-      right:
-      - state: musician-inhand-right
+    heldPrefix: musician
 
 
 - type: entity
@@ -344,16 +337,10 @@
   components:
   - type: Sprite
     state: researchdirector
-  - type: Clothing
-    clothingVisuals:
-      head:
-      - state: researchdirector-equipped-HELMET
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: researchdirector
   - type: Item
-    inhandVisuals:
-      left:
-      - state: researchdirector-inhand-left
-      right:
-      - state: researchdirector-inhand-right
+    heldPrefix: researchdirector
 
 - type: entity
   parent: BasePlushieLizardJob
