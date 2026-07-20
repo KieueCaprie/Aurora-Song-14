@@ -132,6 +132,7 @@
       - id: PlushieLizardJobMultiweh
         weight: 0.5 # 1 in >800
 
+
 # Figurines representing all your favorite coworkers
 - type: entityTable # size 1x2  # price 75
   id: AllFigurinesTable
