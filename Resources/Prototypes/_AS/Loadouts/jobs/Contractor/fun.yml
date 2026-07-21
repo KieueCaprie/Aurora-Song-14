@@ -286,6 +286,8 @@
     - PlushieLizardJobStationengineer
   groupBy: "wehs"
 
+#T2 (5000)
+
 - type: loadout
   id: PlushieLizardJobCaptain
   name: captain lizard plushie
@@ -339,5 +341,3 @@
     back:
     - PlushieLizardJobResearchdirector
   groupBy: "wehs"
-
-#T2 (5000)
