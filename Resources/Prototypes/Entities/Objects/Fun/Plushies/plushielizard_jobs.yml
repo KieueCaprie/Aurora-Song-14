@@ -121,9 +121,9 @@
   - type: Sprite
     state: chemist
   - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
-    equippedPrefix: aaa
+    equippedPrefix: chemist
   - type: Item
-    heldPrefix: aaa
+    heldPrefix: chemist
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -248,9 +248,9 @@
   - type: Sprite
     state: medicaldoctor
   - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
-    equippedPrefix: bbb
+    equippedPrefix: medicaldoctor
   - type: Item
-    heldPrefix: bbb
+    heldPrefix: medicaldoctor
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -261,9 +261,9 @@
   - type: Sprite
     state: medicalintern
   - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
-    equippedPrefix: ccc
+    equippedPrefix: medicalintern
   - type: Item
-    heldPrefix: ccc
+    heldPrefix: medicalintern
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -315,6 +315,10 @@
   components:
   - type: Sprite
     state: paramedic
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: aaa
+  - type: Item
+    heldPrefix: aaa
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -333,6 +337,10 @@
   components:
   - type: Sprite
     state: psychologist
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: bbb
+  - type: Item
+    heldPrefix: bbb
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -360,6 +368,10 @@
   components:
   - type: Sprite
     state: researchassistant
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: ccc
+  - type: Item
+    heldPrefix: ccc
 
 - type: entity
   parent: BasePlushieLizardJob

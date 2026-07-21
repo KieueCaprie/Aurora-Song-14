@@ -107,15 +107,15 @@
             "name": "chemist"
         },
         {
-            "name": "aaa-inhand-left",
+            "name": "chemist-inhand-left",
             "directions": 4
         },
         {
-            "name": "aaa-inhand-right",
+            "name": "chemist-inhand-right",
             "directions": 4
         },
         {
-            "name": "aaa-equipped-HELMET",
+            "name": "chemist-equipped-HELMET",
             "directions": 4
         },
         {
@@ -221,30 +221,30 @@
             "name": "medicaldoctor"
         },
         {
-            "name": "bbb-inhand-left",
+            "name": "medicaldoctor-inhand-left",
             "directions": 4
         },
         {
-            "name": "bbb-inhand-right",
+            "name": "medicaldoctor-inhand-right",
             "directions": 4
         },
         {
-            "name": "bbb-equipped-HELMET",
+            "name": "medicaldoctor-equipped-HELMET",
             "directions": 4
         },
         {
             "name": "medicalintern"
         },
         {
-            "name": "ccc-inhand-left",
+            "name": "medicalintern-inhand-left",
             "directions": 4
         },
         {
-            "name": "ccc-inhand-right",
+            "name": "medicalintern-inhand-right",
             "directions": 4
         },
         {
-            "name": "ccc-equipped-HELMET",
+            "name": "medicalintern-equipped-HELMET",
             "directions": 4
         },
         {
@@ -281,10 +281,34 @@
             "name": "paramedic"
         },
         {
+            "name": "aaa-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "aaa-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "aaa-equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "passenger"
         },
         {
             "name": "psychologist"
+        },
+        {
+            "name": "bbb-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "bbb-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "bbb-equipped-HELMET",
+            "directions": 4
         },
         {
             "name": "quartermaster"
@@ -294,6 +318,18 @@
         },
         {
             "name": "researchassistant"
+        },
+        {
+            "name": "ccc-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "ccc-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "ccc-equipped-HELMET",
+            "directions": 4
         },
         {
             "name": "researchdirector"
