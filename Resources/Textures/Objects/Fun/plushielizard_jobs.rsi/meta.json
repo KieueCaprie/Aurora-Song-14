@@ -23,10 +23,42 @@
             "name": "atmospherictechnician"
         },
         {
+            "name": "atmospherictechnician-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "atmospherictechnician-equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "bartender"
         },
         {
+            "name": "bartender-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "bartender-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "bartender-equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "botanist"
+        },
+        {
+            "name": "botanist-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "botanist-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "botanist-equipped-HELMET",
+            "directions": 4
         },
         {
             "name": "boxer"
@@ -38,10 +70,30 @@
             "name": "cargotechnician"
         },
         {
+            "name": "cargotechnician-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "cargotechnician-equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "chaplain"
         },
         {
             "name": "chef"
+        },
+        {
+            "name": "chef-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "chef-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "chef-equipped-HELMET",
+            "directions": 4
         },
         {
             "name": "chemist"
@@ -234,6 +286,14 @@
         },
         {
             "name": "technicalassistant"
+        },
+        {
+            "name": "technicalassistant-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "technicalassistant-equipped-HELMET",
+            "directions": 4
         },
         {
             "name": "warden"
