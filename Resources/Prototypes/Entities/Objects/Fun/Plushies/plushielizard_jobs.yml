@@ -13,12 +13,12 @@
 
 # TODO: Delete once the PR is done and dusted.
 #  components:
-#  - type: Sprite
-#    state: REPLACEME
-#  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
-#    equippedPrefix: REPLACEME
-#  - type: Item
-#    heldPrefix: REPLACEME
+ # - type: Sprite
+ #   state: REPLACEME
+ # - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+ #   equippedPrefix: REPLACEME
+ # - type: Item
+ #   heldPrefix: REPLACEME
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -28,6 +28,10 @@
   components:
   - type: Sprite
     state: atmospherictechnician
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: atmospherictechnician
+  - type: Item
+    heldPrefix: atmospherictechnician
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -37,6 +41,10 @@
   components:
   - type: Sprite
     state: bartender
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: bartender
+  - type: Item
+    heldPrefix: bartender
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -46,6 +54,10 @@
   components:
   - type: Sprite
     state: botanist
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: botanist
+  - type: Item
+    heldPrefix: botanist
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -73,6 +85,10 @@
   components:
   - type: Sprite
     state: cargotechnician
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: cargotechnician
+  - type: Item
+    heldPrefix: cargotechnician
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -91,6 +107,10 @@
   components:
   - type: Sprite
     state: chef
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: chef
+  - type: Item
+    heldPrefix: chef
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -100,6 +120,10 @@
   components:
   - type: Sprite
     state: chemist
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: aaa
+  - type: Item
+    heldPrefix: aaa
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -223,6 +247,10 @@
   components:
   - type: Sprite
     state: medicaldoctor
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: bbb
+  - type: Item
+    heldPrefix: bbb
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -232,6 +260,10 @@
   components:
   - type: Sprite
     state: medicalintern
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: ccc
+  - type: Item
+    heldPrefix: ccc
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -404,6 +436,10 @@
   components:
   - type: Sprite
     state: technicalassistant
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: technicalassistant
+  - type: Item
+    heldPrefix: technicalassistant
 
 - type: entity
   parent: BasePlushieLizardJob

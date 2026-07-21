@@ -27,6 +27,10 @@
             "directions": 4
         },
         {
+            "name": "atmospherictechnician-inhand-right",
+            "directions": 4
+        },
+        {
             "name": "atmospherictechnician-equipped-HELMET",
             "directions": 4
         },
@@ -74,6 +78,10 @@
             "directions": 4
         },
         {
+            "name": "cargotechnician-inhand-right",
+            "directions": 4
+        },
+        {
             "name": "cargotechnician-equipped-HELMET",
             "directions": 4
         },
@@ -97,6 +105,18 @@
         },
         {
             "name": "chemist"
+        },
+        {
+            "name": "aaa-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "aaa-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "aaa-equipped-HELMET",
+            "directions": 4
         },
         {
             "name": "chiefengineer"
@@ -201,7 +221,31 @@
             "name": "medicaldoctor"
         },
         {
+            "name": "bbb-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "bbb-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "bbb-equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "medicalintern"
+        },
+        {
+            "name": "ccc-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "ccc-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "ccc-equipped-HELMET",
+            "directions": 4
         },
         {
             "name": "mime"
@@ -289,6 +333,10 @@
         },
         {
             "name": "technicalassistant-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "technicalassistant-inhand-right",
             "directions": 4
         },
         {
