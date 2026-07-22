@@ -295,7 +295,7 @@
   storage:
     back:
     - PlushieLizardJobCaptain
-  groupBy: "wehs"
+  groupBy: "commandwehs"
 
 - type: loadout
   id: PlushieLizardJobChiefengineer
@@ -304,7 +304,7 @@
   storage:
     back:
     - PlushieLizardJobChiefengineer
-  groupBy: "wehs"
+  groupBy: "commandwehs"
 
 - type: loadout
   id: PlushieLizardJobChiefmedicalofficer
@@ -313,7 +313,7 @@
   storage:
     back:
     - PlushieLizardJobChiefmedicalofficer
-  groupBy: "wehs"
+  groupBy: "commandwehs"
 
 - type: loadout
   id: PlushieLizardJobHeadofpersonnel
@@ -322,7 +322,7 @@
   storage:
     back:
     - PlushieLizardJobHeadofpersonnel
-  groupBy: "wehs"
+  groupBy: "commandwehs"
 
 - type: loadout
   id: PlushieLizardJobHeadofsecurity
@@ -331,7 +331,7 @@
   storage:
     back:
     - PlushieLizardJobHeadofsecurity
-  groupBy: "wehs"
+  groupBy: "commandwehs"
 
 - type: loadout
   id: PlushieLizardJobResearchdirector
@@ -340,4 +340,4 @@
   storage:
     back:
     - PlushieLizardJobResearchdirector
-  groupBy: "wehs"
+  groupBy: "commandwehs"
