@@ -15,7 +15,7 @@
     useMapCoords: true
     table: !type:AllSelector
       children:
-      - id: SpaceBladeBoxTrash
+      - id: WehFrenBoxTrash
       - !type:NestedSelector
         tableId: AllLizardPlushieGambaTable
 
@@ -34,7 +34,7 @@
     price: 320
   - type: SpawnItemsOnUse
     items:
-      - id: SpaceBladeBoxTrash
+      - id: WehFrenBoxGoldTrash
       - id: MysteryWehRandomRare
 
 - type: entity
