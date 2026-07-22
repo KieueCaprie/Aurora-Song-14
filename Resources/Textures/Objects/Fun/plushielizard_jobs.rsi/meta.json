@@ -89,6 +89,18 @@
             "name": "chaplain"
         },
         {
+            "name": "aaa-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "aaa-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "aaa-equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "chef"
         },
         {
@@ -167,6 +179,18 @@
             "name": "detective"
         },
         {
+            "name": "detective-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "detective-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "detective-equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "headofpersonnel"
         },
         {
@@ -215,7 +239,31 @@
             "name": "lawyer"
         },
         {
+            "name": "bbb-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "bbb-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "bbb-equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "librarian"
+        },
+        {
+            "name": "ccc-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "ccc-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "ccc-equipped-HELMET",
+            "directions": 4
         },
         {
             "name": "medicaldoctor"
@@ -281,15 +329,15 @@
             "name": "paramedic"
         },
         {
-            "name": "aaa-inhand-left",
+            "name": "paramedic-inhand-left",
             "directions": 4
         },
         {
-            "name": "aaa-inhand-right",
+            "name": "paramedic-inhand-right",
             "directions": 4
         },
         {
-            "name": "aaa-equipped-HELMET",
+            "name": "paramedic-equipped-HELMET",
             "directions": 4
         },
         {
@@ -299,15 +347,15 @@
             "name": "psychologist"
         },
         {
-            "name": "bbb-inhand-left",
+            "name": "psychologist-inhand-left",
             "directions": 4
         },
         {
-            "name": "bbb-inhand-right",
+            "name": "psychologist-inhand-right",
             "directions": 4
         },
         {
-            "name": "bbb-equipped-HELMET",
+            "name": "psychologist-equipped-HELMET",
             "directions": 4
         },
         {
@@ -320,15 +368,15 @@
             "name": "researchassistant"
         },
         {
-            "name": "ccc-inhand-left",
+            "name": "researchassistant-inhand-left",
             "directions": 4
         },
         {
-            "name": "ccc-inhand-right",
+            "name": "researchassistant-inhand-right",
             "directions": 4
         },
         {
-            "name": "ccc-equipped-HELMET",
+            "name": "researchassistant-equipped-HELMET",
             "directions": 4
         },
         {
@@ -356,7 +404,31 @@
             "name": "securitycadet"
         },
         {
+            "name": "securitycadet-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "securitycadet-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "securitycadet-equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "securityofficer"
+        },
+        {
+            "name": "securityofficer-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "securityofficer-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "securityofficer-equipped-HELMET",
+            "directions": 4
         },
         {
             "name": "serviceworker"

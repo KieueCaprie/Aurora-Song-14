@@ -98,6 +98,10 @@
   components:
   - type: Sprite
     state: chaplain
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: aaa
+  - type: Item
+    heldPrefix: aaa
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -181,6 +185,10 @@
   components:
   - type: Sprite
     state: detective
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: detective
+  - type: Item
+    heldPrefix: detective
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -229,6 +237,10 @@
   components:
   - type: Sprite
     state: lawyer
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: bbb
+  - type: Item
+    heldPrefix: bbb
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -238,6 +250,10 @@
   components:
   - type: Sprite
     state: librarian
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: ccc
+  - type: Item
+    heldPrefix: ccc
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -316,9 +332,9 @@
   - type: Sprite
     state: paramedic
   - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
-    equippedPrefix: aaa
+    equippedPrefix: paramedic
   - type: Item
-    heldPrefix: aaa
+    heldPrefix: paramedic
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -338,9 +354,9 @@
   - type: Sprite
     state: psychologist
   - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
-    equippedPrefix: bbb
+    equippedPrefix: psychologist
   - type: Item
-    heldPrefix: bbb
+    heldPrefix: psychologist
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -369,9 +385,9 @@
   - type: Sprite
     state: researchassistant
   - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
-    equippedPrefix: ccc
+    equippedPrefix: researchassistant
   - type: Item
-    heldPrefix: ccc
+    heldPrefix: researchassistant
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -412,6 +428,10 @@
   components:
   - type: Sprite
     state: securitycadet
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: securitycadet
+  - type: Item
+    heldPrefix: securitycadet
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -421,6 +441,10 @@
   components:
   - type: Sprite
     state: securityofficer
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: securityofficer
+  - type: Item
+    heldPrefix: securityofficer
 
 - type: entity
   parent: BasePlushieLizardJob
