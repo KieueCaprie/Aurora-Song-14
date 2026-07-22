@@ -5,10 +5,10 @@
   description: A box containing a plush toy resembling a lizard. The box art claims that your new best friend is just a box "a-weh"!
   components:
   - type: Sprite
-    sprite: _NF/Objects/Fun/spaceblade.rsi # TODO: Make a sprite for the box!
+    sprite: _AS/Objects/Fun/wehfren.rsi
     scale: 0.65, 0.65
     layers:
-      - state: sb_box
+      - state: wehfren-box
   - type: StaticPrice
     price: 160
   - type: SpawnEntityTableOnTrigger
@@ -26,17 +26,32 @@
   description: A box containing a plush toy resembling a lizard. The box art claims that your new best friend is just a box "a-weh"! This one is extra-fancy!
   components:
   - type: Sprite
-    sprite: _NF/Objects/Fun/spaceblade.rsi # TODO: Make a sprite for the box!
+    sprite: _AS/Objects/Fun/wehfren.rsi
     scale: 0.65, 0.65
     layers:
-      - state: sb_box
+      - state: wehfren-box-gold
   - type: StaticPrice
-    price: 160
+    price: 320
   - type: SpawnItemsOnUse
     items:
       - id: SpaceBladeBoxTrash
       - id: MysteryWehRandomRare
 
+- type: entity
+  parent: MysteryFigureBoxTrash
+  id: WehFrenBoxTrash
+  components:
+  - type: Sprite
+    sprite: _AS/Objects/Fun/wehfren.rsi
+    state: wehfren-box-unfolded
+
+- type: entity
+  parent: MysteryFigureBoxTrash
+  id: WehFrenBoxGoldTrash
+  components:
+  - type: Sprite
+    sprite: _AS/Objects/Fun/wehfren.rsi
+    state: wehfren-box-gold-unfolded
 
 - type: entity
   parent: MysteryWehBoxCommand
@@ -60,7 +75,7 @@
 - type: entity
   parent: MysteryWehBox
   id: MysteryWehDebug
-  name: overflowing random mystery weh friend box
+  name: overflowing mystery weh friend box
   description: A box containing a plush toy resembling a lizard. The box art claims that your new best friend is just a box "a-weh"! This... box seems to be full to bursting...
   suffix: DEBUG
   components:
