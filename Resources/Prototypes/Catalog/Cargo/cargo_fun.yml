@@ -138,7 +138,7 @@
     sprite: Objects/Fun/Plushies/lizard.rsi
     state: icon
   product: CrateFunLizardPlushieBulk
-  cost: 2000 # Aurora's Song - 500 > 2000 - TENTATIVE
+  cost: 20000 # Aurora's Song - 500 > 20000 - TENTATIVE
   category: cargoproduct-category-name-fun
   group: market
 
