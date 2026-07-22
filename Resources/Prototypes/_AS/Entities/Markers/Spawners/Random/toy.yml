@@ -1,6 +1,6 @@
 # Separate lizard plushie loot table for the mystery box so it won't touch the expedition spawners.
 - type: entityTable
-  id: AllLizardPlushieGambaTable # Aurora's Song - Separate lizard plushie loot table for the mystery box, this won't touch the expedition spawners.
+  id: AllLizardPlushieGambaTable
   table: !type:GroupSelector
     children:
       # Common Plushies - Basics and Assistants
