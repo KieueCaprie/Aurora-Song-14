@@ -67,6 +67,10 @@
   components:
   - type: Sprite
     state: boxer
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: boxer
+  - type: Item
+    heldPrefix: boxer
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -76,6 +80,10 @@
   components:
   - type: Sprite
     state: captain
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: captain
+  - type: Item
+    heldPrefix: captain
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -99,9 +107,9 @@
   - type: Sprite
     state: chaplain
   - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
-    equippedPrefix: aaa
+    equippedPrefix: chaplain
   - type: Item
-    heldPrefix: aaa
+    heldPrefix: chaplain
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -238,9 +246,9 @@
   - type: Sprite
     state: lawyer
   - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
-    equippedPrefix: bbb
+    equippedPrefix: lawyer
   - type: Item
-    heldPrefix: bbb
+    heldPrefix: lawyer
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -251,9 +259,9 @@
   - type: Sprite
     state: librarian
   - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
-    equippedPrefix: ccc
+    equippedPrefix: librarian
   - type: Item
-    heldPrefix: ccc
+    heldPrefix: librarian
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -344,6 +352,10 @@
   components:
   - type: Sprite
     state: passenger
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: passenger
+  - type: Item
+    heldPrefix: passenger
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -366,6 +378,10 @@
   components:
   - type: Sprite
     state: quartermaster
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: quartermaster
+  - type: Item
+    heldPrefix: quartermaster
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -375,6 +391,10 @@
   components:
   - type: Sprite
     state: reporter
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: reporter
+  - type: Item
+    heldPrefix: reporter
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -410,6 +430,10 @@
   components:
   - type: Sprite
     state: salvager
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: salvager
+  - type: Item
+    heldPrefix: salvager
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -419,6 +443,10 @@
   components:
   - type: Sprite
     state: scientist
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: scientist
+  - type: Item
+    heldPrefix: scientist
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -454,6 +482,10 @@
   components:
   - type: Sprite
     state: serviceworker
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: serviceworker
+  - type: Item
+    heldPrefix: serviceworker
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -463,6 +495,10 @@
   components:
   - type: Sprite
     state: stationengineer
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: stationengineer
+  - type: Item
+    heldPrefix: stationengineer
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -485,6 +521,10 @@
   components:
   - type: Sprite
     state: warden
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: warden
+  - type: Item
+    heldPrefix: warden
 
 - type: entity
   parent: BasePlushieLizardJob
@@ -494,6 +534,10 @@
   components:
   - type: Sprite
     state: zookeeper
+  - type: Clothing #Aurora's Song - added equippedPrefix and heldPrefix
+    equippedPrefix: zookeeper
+  - type: Item
+    heldPrefix: zookeeper
 
 - type: entity
   parent: BasePlushieLizardJob

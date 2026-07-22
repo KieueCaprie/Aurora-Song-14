@@ -68,7 +68,31 @@
             "name": "boxer"
         },
         {
+            "name": "boxer-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "boxer-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "boxer-equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "captain"
+        },
+        {
+            "name": "captain-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "captain-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "captain-equipped-HELMET",
+            "directions": 4
         },
         {
             "name": "cargotechnician"
@@ -89,15 +113,15 @@
             "name": "chaplain"
         },
         {
-            "name": "aaa-inhand-left",
+            "name": "chaplain-inhand-left",
             "directions": 4
         },
         {
-            "name": "aaa-inhand-right",
+            "name": "chaplain-inhand-right",
             "directions": 4
         },
         {
-            "name": "aaa-equipped-HELMET",
+            "name": "chaplain-equipped-HELMET",
             "directions": 4
         },
         {
@@ -239,30 +263,30 @@
             "name": "lawyer"
         },
         {
-            "name": "bbb-inhand-left",
+            "name": "lawyer-inhand-left",
             "directions": 4
         },
         {
-            "name": "bbb-inhand-right",
+            "name": "lawyer-inhand-right",
             "directions": 4
         },
         {
-            "name": "bbb-equipped-HELMET",
+            "name": "lawyer-equipped-HELMET",
             "directions": 4
         },
         {
             "name": "librarian"
         },
         {
-            "name": "ccc-inhand-left",
+            "name": "librarian-inhand-left",
             "directions": 4
         },
         {
-            "name": "ccc-inhand-right",
+            "name": "librarian-inhand-right",
             "directions": 4
         },
         {
-            "name": "ccc-equipped-HELMET",
+            "name": "librarian-equipped-HELMET",
             "directions": 4
         },
         {
@@ -344,6 +368,18 @@
             "name": "passenger"
         },
         {
+            "name": "passenger-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "passenger-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "passenger-equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "psychologist"
         },
         {
@@ -362,7 +398,31 @@
             "name": "quartermaster"
         },
         {
+            "name": "quartermaster-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "quartermaster-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "quartermaster-equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "reporter"
+        },
+        {
+            "name": "reporter-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "reporter-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "reporter-equipped-HELMET",
+            "directions": 4
         },
         {
             "name": "researchassistant"
@@ -398,7 +458,31 @@
             "name": "salvager"
         },
         {
+            "name": "salvager-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "salvager-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "salvager-equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "scientist"
+        },
+        {
+            "name": "scientist-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "scientist-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "scientist-equipped-HELMET",
+            "directions": 4
         },
         {
             "name": "securitycadet"
@@ -434,7 +518,31 @@
             "name": "serviceworker"
         },
         {
+            "name": "serviceworker-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "serviceworker-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "serviceworker-equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "stationengineer"
+        },
+        {
+            "name": "stationengineer-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "stationengineer-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "stationengineer-equipped-HELMET",
+            "directions": 4
         },
         {
             "name": "technicalassistant"
@@ -455,7 +563,31 @@
             "name": "warden"
         },
         {
+            "name": "warden-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "warden-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "warden-equipped-HELMET",
+            "directions": 4
+        },
+        {
             "name": "zookeeper"
+        },
+        {
+            "name": "zookeeper-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "zookeeper-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "zookeeper-equipped-HELMET",
+            "directions": 4
         },
         {
             "name": "multiweh",
