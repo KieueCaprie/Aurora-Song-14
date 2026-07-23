@@ -62,7 +62,7 @@
   parent: BasePlushieLizardJob
   id: PlushieLizardJobBoxer
   name: boxer lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a boxer. The threads on its gloves are Starting to come loose.
+  description: An adorable stuffed toy that resembles a lizardperson as a boxer. The threads on its gloves are starting to come loose.
   components:
   - type: Sprite
     state: boxer
