@@ -60,6 +60,7 @@
   - PlushieLizardJobChiefmedicalofficer
   subgroups:
   - SergeantBackpackItems
+  - ContractorBackpackItems
 
 - type: loadoutGroup
   id: CommissionerFace
