@@ -69,7 +69,7 @@
   fallbacks:
   - DocDocPDA
 
-# Aurora's Song start - DoC backpack items
+# Aurora's Song Start - DoC backpack items
 - type: loadoutGroup
   id: DocBackpackItems
   name: loadout-group-contractor-backpack-items
@@ -84,7 +84,7 @@
   - PlushieLizardJobChiefengineer
   subgroups:
   - ContractorBackpackItems
-# Aurora's Song end
+# Aurora's Song End
 
 - type: loadoutGroup
   id: DocShoes
