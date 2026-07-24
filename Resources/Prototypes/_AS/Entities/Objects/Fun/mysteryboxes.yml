@@ -58,7 +58,7 @@
   id: MysteryWehRandomRare
   name: random rare mystery weh friend
   components:
-    - type: SpawnEntityTableOnTrigger
+    - type: EntityTableSpawner
       table: !type:GroupSelector
         children:
           - id: PlushieLizardJobCaptain
