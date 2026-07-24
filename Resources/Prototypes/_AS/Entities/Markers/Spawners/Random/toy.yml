@@ -63,3 +63,18 @@
         children:
           - id: PlushieLizardInversed
           - id: PlushieLizardJobMultiweh
+
+- type: entityTable
+  id: RareLizardPlushieGambaTable
+  table: !type:GroupSelector
+    children:
+    - id: PlushieLizardJobCaptain
+    - id: PlushieLizardJobChiefengineer
+    - id: PlushieLizardJobChiefmedicalofficer
+    - id: PlushieLizardJobHeadofpersonnel
+    - id: PlushieLizardJobHeadofsecurity
+    - id: PlushieLizardJobResearchdirector
+    - id: PlushieLizardInversed
+      weight: 0.1
+    - id: PlushieLizardJobMultiweh
+      weight: 0.01
