@@ -53,28 +53,24 @@
     sprite: _AS/Objects/Fun/wehfren.rsi
     state: wehfren-box-gold-unfolded
 
-# What I am about to do has not been approved by the Vatican.
 - type: entity
+  parent: MysteryWehBoxCommand
   id: MysteryWehRandomRare
   name: random rare mystery weh friend
-  parent: MarkerBase
   components:
-    - type: Sprite
-      sprite: _AS/Objects/Fun/wehfren.rsi
-      state: wehfren-box-gold
-    - type: RandomSpawner
-      prototypes:
-      - PlushieLizardJobCaptain
-      - PlushieLizardJobChiefengineer
-      - PlushieLizardJobChiefmedicalofficer
-      - PlushieLizardJobHeadofpersonnel
-      - PlushieLizardJobHeadofsecurity
-      - PlushieLizardJobResearchdirector
-      chance: 1 # might already be a 100% chance but i'm putting it here JUST in case...
-      rarePrototypes:
-      - PlushieLizardInversed
-      - PlushieLizardJobMultiweh
-      rareChance: 0.05 # 5% chance of pulling an ultra-rare. feel fancy now, fancypants?
+    - type: SpawnEntityTableOnTrigger
+      table: !type:GroupSelector
+        children:
+          - id: PlushieLizardJobCaptain
+          - id: PlushieLizardJobChiefengineer
+          - id: PlushieLizardJobChiefmedicalofficer
+          - id: PlushieLizardJobHeadofpersonnel
+          - id: PlushieLizardJobHeadofsecurity
+          - id: PlushieLizardJobResearchdirector
+          - id: PlushieLizardInversed
+            weight: 0.1
+          - id: PlushieLizardJobMultiweh
+            weight: 0.01
 
 - type: entity
   parent: MysteryWehBox
